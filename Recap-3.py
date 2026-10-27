@@ -13,4 +13,4 @@ for David in range(29):
             b=(Frank==3*David)
             c=(Frank+David+Emma==28)
             if a and b and c:
-                print("David has " ,David, "tickets")
+                print("David has" ,David, "tickets")
